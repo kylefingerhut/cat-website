@@ -1,0 +1,1 @@
+# This was an Odin Project assignment to create a website. I naturally decided to make one about cats. 
